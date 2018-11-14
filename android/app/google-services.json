@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "374168288805",
+    "firebase_url": "https://tradegames-2dff6.firebaseio.com",
+    "project_id": "tradegames-2dff6",
+    "storage_bucket": "tradegames-2dff6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374168288805:android:4cc4ef55270c2ba5",
+        "android_client_info": {
+          "package_name": "com.example.tudoemmurici"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374168288805-bmcb6qddd8a41q2uo4f0hk3t037aot9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaG7jGT_PizWJsMFM0PiMF8bFF_MPeJyQ"
+        },
+        {
+          "current_key": "AIzaSyDHFQ8pEkcW6cZiVhkkpzkDKcuJFwthRYw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374168288805:android:a9418979a7e8429d",
+        "android_client_info": {
+          "package_name": "com.hagios.tudoemmurici"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374168288805-fn4b50fi76shs5kut532l9rduonk2vle.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hagios.tudoemmurici",
+            "certificate_hash": "717e96b73581ae8cf138c9f56d34146da779b15c"
+          }
+        },
+        {
+          "client_id": "374168288805-bmcb6qddd8a41q2uo4f0hk3t037aot9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaG7jGT_PizWJsMFM0PiMF8bFF_MPeJyQ"
+        },
+        {
+          "current_key": "AIzaSyDHFQ8pEkcW6cZiVhkkpzkDKcuJFwthRYw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374168288805-bmcb6qddd8a41q2uo4f0hk3t037aot9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
